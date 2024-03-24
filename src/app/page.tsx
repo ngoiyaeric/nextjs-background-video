@@ -4,10 +4,10 @@ export default function Home() {
     return (
         <main className={styles.main}>
             <div className={styles.contents}>
-                <h1>deep blue cinematics</h1>
+                <h1>Quality Computer Experiences</h1>
                 <div className={styles.buttons}>
-                    <button>our work</button>
-                    <button>our story</button>
+                    <button>Mission</button>
+                    <button>Waitlist</button>
                 </div>
             </div>
             <video
